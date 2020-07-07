@@ -1,0 +1,22 @@
+{
+"parent": "item/generated",
+"textures": {
+"layer0": "item/emerald"
+},
+
+"overrides": [
+{"predicate": {"custom_model_data":1}, "model": "item/lightribbon/blue"},
+{"predicate": {"custom_model_data":786}, "model": "item/786"},
+{"predicate": {"custom_model_data":787}, "model": "item/786_active"},
+{"predicate": {"custom_model_data":7861}, "model": "item/animate/786/rez1"},
+{"predicate": {"custom_model_data":7862}, "model": "item/animate/786/rez2"},
+{"predicate": {"custom_model_data":7863}, "model": "item/animate/786/rez3"},
+{"predicate": {"custom_model_data":7864}, "model": "item/animate/786/rez4"},
+{"predicate": {"custom_model_data":7865}, "model": "item/animate/786/rez5"},
+{"predicate": {"custom_model_data":7866}, "model": "item/animate/786/rez6"},
+{"predicate": {"custom_model_data":7867}, "model": "item/animate/786/rez7"},
+{"predicate": {"custom_model_data":7868}, "model": "item/animate/786/rez8"},
+{"predicate": {"custom_model_data":7869}, "model": "item/animate/786/rez9"},
+{"predicate": {"custom_model_data":78610}, "model": "item/animate/786/rez10"}
+]
+}

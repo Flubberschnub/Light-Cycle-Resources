@@ -1,0 +1,12 @@
+{
+"parent": "item/generated",
+"textures": {
+"layer0": "item/carrot_on_a_stick"
+},
+
+"overrides": [
+{"predicate": {"custom_model_data":786}, "model": "item/closedbaton786"},
+{"predicate": {"custom_model_data":787}, "model": "item/rightbaton786"},
+{"predicate": {"custom_model_data":788}, "model": "item/leftbaton786"}
+]
+}

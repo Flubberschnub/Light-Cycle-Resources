@@ -1,0 +1,27 @@
+{
+    "lightcycle.rez": {
+        "sounds": [
+            "cycle/rez"
+        ]
+    },
+    "lightcycle.derez": {
+        "sounds": [
+            "cycle/derez"
+        ]
+    },
+    "lightcycle.engine.rev": {
+        "sounds": [
+            "cycle/enginerev"
+        ]
+    },
+    "lightcycle.engine.idle": {
+        "sounds": [
+            "cycle/engineidle"
+        ]
+    },
+    "lightcycle.engine.idle2": {
+        "sounds": [
+            "cycle/engineidle2"
+        ]
+    }
+}
