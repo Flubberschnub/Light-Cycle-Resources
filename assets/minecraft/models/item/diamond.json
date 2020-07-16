@@ -1,0 +1,22 @@
+{
+"parent": "item/generated",
+"textures": {
+"layer0": "item/diamond"
+},
+
+"overrides": [
+{"predicate": {"custom_model_data":5}, "model": "item/cycles/gen5/gen5"},
+{"predicate": {"custom_model_data":51}, "model": "item/animate/gen5/rez1"},
+{"predicate": {"custom_model_data":52}, "model": "item/animate/gen5/rez2"},
+{"predicate": {"custom_model_data":53}, "model": "item/animate/gen5/rez3"},
+{"predicate": {"custom_model_data":54}, "model": "item/animate/gen5/rez4"},
+{"predicate": {"custom_model_data":55}, "model": "item/animate/gen5/rez5"},
+{"predicate": {"custom_model_data":56}, "model": "item/animate/gen5/rez6"},
+{"predicate": {"custom_model_data":57}, "model": "item/animate/gen5/rez7"},
+{"predicate": {"custom_model_data":58}, "model": "item/animate/gen5/rez8"},
+{"predicate": {"custom_model_data":59}, "model": "item/animate/gen5/rez9"},
+{"predicate": {"custom_model_data":510}, "model": "item/animate/gen5/rez10"},
+{"predicate": {"custom_model_data":5001}, "model": "item/cycles/gen5/gen5"},
+{"predicate": {"custom_model_data":5002}, "model": "item/cycles/gen5/gen5_braking"}
+]
+}

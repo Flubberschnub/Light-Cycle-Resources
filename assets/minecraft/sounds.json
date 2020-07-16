@@ -29,6 +29,16 @@
             "cycle/accelerate2"
         ]
     },
+    "lightcycle.lightribbon.activate": {
+        "sounds": [
+            "cycle/activateribbon"
+        ]
+    },
+    "lightcycle.lightribbon.deactivate": {
+        "sounds": [
+            "cycle/deactivateribbon"
+        ]
+    },
     "lightcycle.engine.idle2": {
         "sounds": [
             "cycle/engineidle2"

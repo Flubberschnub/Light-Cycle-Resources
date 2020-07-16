@@ -5,20 +5,8 @@
 },
 
 "overrides": [
-{"predicate": {"custom_model_data":5}, "model": "item/gen5"},
-{"predicate": {"custom_model_data":51}, "model": "item/animate/gen5/rez1"},
-{"predicate": {"custom_model_data":52}, "model": "item/animate/gen5/rez2"},
-{"predicate": {"custom_model_data":53}, "model": "item/animate/gen5/rez3"},
-{"predicate": {"custom_model_data":54}, "model": "item/animate/gen5/rez4"},
-{"predicate": {"custom_model_data":55}, "model": "item/animate/gen5/rez5"},
-{"predicate": {"custom_model_data":56}, "model": "item/animate/gen5/rez6"},
-{"predicate": {"custom_model_data":57}, "model": "item/animate/gen5/rez7"},
-{"predicate": {"custom_model_data":58}, "model": "item/animate/gen5/rez8"},
-{"predicate": {"custom_model_data":59}, "model": "item/animate/gen5/rez9"},
-{"predicate": {"custom_model_data":510}, "model": "item/animate/gen5/rez10"},
-{"predicate": {"custom_model_data":786}, "model": "item/786"},
-{"predicate": {"custom_model_data":787}, "model": "item/786_active"},
-{"predicate": {"custom_model_data":5001}, "model": "item/gen5"},
+{"predicate": {"custom_model_data":786}, "model": "item/cycles/786/786"},
+{"predicate": {"custom_model_data":787}, "model": "item/cycles/786/786_active"},
 {"predicate": {"custom_model_data":7861}, "model": "item/animate/786/rez1"},
 {"predicate": {"custom_model_data":7862}, "model": "item/animate/786/rez2"},
 {"predicate": {"custom_model_data":7863}, "model": "item/animate/786/rez3"},
@@ -28,7 +16,6 @@
 {"predicate": {"custom_model_data":7867}, "model": "item/animate/786/rez7"},
 {"predicate": {"custom_model_data":7868}, "model": "item/animate/786/rez8"},
 {"predicate": {"custom_model_data":7869}, "model": "item/animate/786/rez9"},
-{"predicate": {"custom_model_data":78610}, "model": "item/animate/786/rez10"},
-{"predicate": {"custom_model_data":111111}, "model": "item/lightribbon/blue"}
+{"predicate": {"custom_model_data":78610}, "model": "item/animate/786/rez10"}
 ]
 }
