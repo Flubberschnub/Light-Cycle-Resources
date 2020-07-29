@@ -6,6 +6,7 @@
 
 "overrides": [
 {"predicate": {"custom_model_data":5}, "model": "item/cycles/gen5/gen5"},
+{"predicate": {"custom_model_data":25}, "model": "item/cycles/gen5/variants/blackguard/gen5"},
 {"predicate": {"custom_model_data":51}, "model": "item/animate/gen5/rez1"},
 {"predicate": {"custom_model_data":52}, "model": "item/animate/gen5/rez2"},
 {"predicate": {"custom_model_data":53}, "model": "item/animate/gen5/rez3"},
@@ -15,8 +16,20 @@
 {"predicate": {"custom_model_data":57}, "model": "item/animate/gen5/rez7"},
 {"predicate": {"custom_model_data":58}, "model": "item/animate/gen5/rez8"},
 {"predicate": {"custom_model_data":59}, "model": "item/animate/gen5/rez9"},
+{"predicate": {"custom_model_data":251}, "model": "item/animate/gen5/variants/blackguard/rez1"},
+{"predicate": {"custom_model_data":252}, "model": "item/animate/gen5/variants/blackguard/rez2"},
+{"predicate": {"custom_model_data":253}, "model": "item/animate/gen5/variants/blackguard/rez3"},
+{"predicate": {"custom_model_data":254}, "model": "item/animate/gen5/variants/blackguard/rez4"},
+{"predicate": {"custom_model_data":255}, "model": "item/animate/gen5/variants/blackguard/rez5"},
+{"predicate": {"custom_model_data":256}, "model": "item/animate/gen5/variants/blackguard/rez6"},
+{"predicate": {"custom_model_data":257}, "model": "item/animate/gen5/variants/blackguard/rez7"},
+{"predicate": {"custom_model_data":258}, "model": "item/animate/gen5/variants/blackguard/rez8"},
+{"predicate": {"custom_model_data":259}, "model": "item/animate/gen5/variants/blackguard/rez9"},
 {"predicate": {"custom_model_data":510}, "model": "item/animate/gen5/rez10"},
+{"predicate": {"custom_model_data":2510}, "model": "item/animate/gen5/variants/blackguard/rez10"},
 {"predicate": {"custom_model_data":5001}, "model": "item/cycles/gen5/gen5"},
-{"predicate": {"custom_model_data":5002}, "model": "item/cycles/gen5/gen5_braking"}
+{"predicate": {"custom_model_data":5002}, "model": "item/cycles/gen5/gen5_braking"},
+{"predicate": {"custom_model_data":25001}, "model": "item/cycles/gen5/variants/blackguard/gen5"},
+{"predicate": {"custom_model_data":25002}, "model": "item/cycles/gen5/variants/blackguard/gen5_braking"}
 ]
 }
