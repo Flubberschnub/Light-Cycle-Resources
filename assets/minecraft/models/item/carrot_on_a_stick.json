@@ -7,6 +7,8 @@
 "overrides": [
 {"predicate": {"custom_model_data":4}, "model": "item/cycles/uprising/closedbaton4"},
 {"predicate": {"custom_model_data":5}, "model": "item/cycles/gen5/closedbaton5"},
+{"predicate": {"custom_model_data":42}, "model": "item/cycles/uprising/variants/blackguard/closedbaton4"},
+{"predicate": {"custom_model_data":52}, "model": "item/cycles/gen5/variants/blackguard/closedbaton5"},
 {"predicate": {"custom_model_data":786}, "model": "item/cycles/786/closedbaton786"},
 {"predicate": {"custom_model_data":787}, "model": "item/cycles/786/rightbaton786"},
 {"predicate": {"custom_model_data":788}, "model": "item/cycles/786/leftbaton786"}

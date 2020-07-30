@@ -14,6 +14,13 @@
             "cycle/derez"
         ]
     },
+    "lightcycle.crash": {
+        "sounds": [
+            "cycle/crash/crash1",
+            "cycle/crash/crash2",
+            "cycle/crash/crash3"
+        ]
+    },
     "lightcycle.engine.rev": {
         "sounds": [
             "cycle/enginerev"
