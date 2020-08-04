@@ -2,29 +2,35 @@
     "lightcycle.rez": {
         "sounds": [
             "cycle/rez"
-        ]
+        ],
+        "subtitle": "Grid vehicle rezzed"
     },
     "lightcycle.786.rez": {
         "sounds": [
             "cycle/786/rez"
-        ]
+        ],
+        "subtitle": "Encom 786 rezzed"
     },
     "lightcycle.derez": {
         "sounds": [
             "cycle/derez"
-        ]
+        ],
+        "subtitle": "Grid vehicle de-rezzed"
     },
     "lightcycle.crash": {
         "sounds": [
             "cycle/crash/crash1",
             "cycle/crash/crash2",
             "cycle/crash/crash3"
-        ]
+        ],
+        "subtitle": "Grid vehicle crashes"
     },
     "lightcycle.engine.rev": {
         "sounds": [
-            "cycle/enginerev"
-        ]
+            "cycle/enginerev",
+            "cycle/enginerev2"
+        ],
+        "subtitle": "Light engine whirs"
     },
     "lightcycle.engine.idle": {
         "sounds": [
@@ -39,12 +45,14 @@
     "lightcycle.lightribbon.activate": {
         "sounds": [
             "cycle/activateribbon"
-        ]
+        ],
+        "subtitle": "Light ribon activated"
     },
     "lightcycle.lightribbon.deactivate": {
         "sounds": [
             "cycle/deactivateribbon"
-        ]
+        ],
+        "subtitle": "Light ribbon deactivated"
     },
     "lightcycle.engine.idle2": {
         "sounds": [
