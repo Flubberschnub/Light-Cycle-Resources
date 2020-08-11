@@ -1,4 +1,33 @@
 {
+  "disc.bounce": {
+      "sounds": [
+          "disc/bounce/bounce1",
+          "disc/bounce/bounce2",
+          "disc/bounce/bounce3",
+          "disc/bounce/bounce4"
+      ],
+      "subtitle": "Identity disc bounces"
+  },
+  "disc.throw": {
+      "sounds": [
+          "disc/throw/throw1",
+          "disc/throw/throw2",
+          "disc/throw/throw4"
+      ],
+      "subtitle": "Identity disc thrown"
+  },
+  "disc.deactivate": {
+      "sounds": [
+          "disc/deactivate"
+      ],
+      "subtitle": "Identity disc deactivated"
+  },
+  "disc.activate": {
+      "sounds": [
+          "disc/activate"
+      ],
+      "subtitle": "Identity disc activated"
+  },
     "lightcycle.rez": {
         "sounds": [
             "cycle/rez"
