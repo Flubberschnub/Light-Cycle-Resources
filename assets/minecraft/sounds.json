@@ -34,6 +34,12 @@
         ],
         "subtitle": "Grid vehicle rezzed"
     },
+    "lightjet.rez": {
+        "sounds": [
+            "jet/rez"
+        ],
+        "subtitle": "Grid vehicle rezzed"
+    },
     "lightcycle.786.rez": {
         "sounds": [
             "cycle/786/rez"
@@ -43,6 +49,12 @@
     "lightcycle.derez": {
         "sounds": [
             "cycle/derez"
+        ],
+        "subtitle": "Grid vehicle de-rezzed"
+    },
+    "lightjet.derez": {
+        "sounds": [
+            "jet/derez"
         ],
         "subtitle": "Grid vehicle de-rezzed"
     },
@@ -58,6 +70,19 @@
         "sounds": [
             "cycle/enginerev",
             "cycle/enginerev2"
+        ],
+        "subtitle": "Light engine whirs"
+    },
+    "lightjet.engine.rev": {
+        "sounds": [
+          {
+            "name": "jet/enginerev",
+            "pitch": 1.0
+          },
+          {
+            "name": "jet/enginerev2",
+            "pitch": 1.0
+          }
         ],
         "subtitle": "Light engine whirs"
     },

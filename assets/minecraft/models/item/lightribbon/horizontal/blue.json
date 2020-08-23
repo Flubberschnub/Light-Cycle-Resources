@@ -1,0 +1,31 @@
+{
+	"credit": "Made by Flubberschnub",
+	"textures": {
+		"1": "blocks/encom786/gone",
+		"6": "blocks/encom786/blueemitter",
+		"particle": "blocks/encom786/gone"
+	},
+	"elements": [
+		{
+			"name": "hexadecagon",
+			"from": [-1.5, 5.25, -4.29293],
+			"to": [11.5, 5.75, 31],
+			"rotation": {"angle": 0, "axis": "z", "origin": [5, 5.5, 13.35354]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#1"},
+				"east": {"uv": [0, 0, 1, 1], "rotation": 90, "texture": "#6"},
+				"south": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#1"},
+				"west": {"uv": [0, 0, 1, 1], "rotation": 90, "texture": "#6"},
+				"up": {"uv": [5, 0, 6, 16], "rotation": 90, "texture": "#6"},
+				"down": {"uv": [11, 0, 12, 16], "rotation": 90, "texture": "#6"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [0, -90, 0],
+			"translation": [35, -2.25, 9.75],
+			"scale": [3.3, 3.3, 3.3]
+		}
+	}
+}

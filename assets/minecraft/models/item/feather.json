@@ -1,0 +1,30 @@
+{
+"parent": "item/generated",
+"textures": {
+"layer0": "item/feather"
+},
+
+"overrides": [
+{"predicate": {"custom_model_data":4}, "model": "item/jets/gen4/jet"},
+{"predicate": {"custom_model_data":41}, "model": "item/animate/jets/gen4/rez1"},
+{"predicate": {"custom_model_data":42}, "model": "item/animate/jets/gen4/rez2"},
+{"predicate": {"custom_model_data":43}, "model": "item/animate/jets/gen4/rez3"},
+{"predicate": {"custom_model_data":44}, "model": "item/animate/jets/gen4/rez4"},
+{"predicate": {"custom_model_data":45}, "model": "item/animate/jets/gen4/rez5"},
+{"predicate": {"custom_model_data":46}, "model": "item/animate/jets/gen4/rez6"},
+{"predicate": {"custom_model_data":47}, "model": "item/animate/jets/gen4/rez9"},
+{"predicate": {"custom_model_data":48}, "model": "item/animate/jets/gen4/rez8"},
+{"predicate": {"custom_model_data":49}, "model": "item/animate/jets/gen4/rez9"},
+{"predicate": {"custom_model_data":410}, "model": "item/animate/jets/gen4/rez8"},
+{"predicate": {"custom_model_data":411}, "model": "item/animate/jets/gen4/rez11"},
+{"predicate": {"custom_model_data":412}, "model": "item/animate/jets/gen4/rez12"},
+{"predicate": {"custom_model_data":413}, "model": "item/animate/jets/gen4/rez13"},
+{"predicate": {"custom_model_data":414}, "model": "item/animate/jets/gen4/rez14"},
+{"predicate": {"custom_model_data":415}, "model": "item/animate/jets/gen4/rez15"},
+{"predicate": {"custom_model_data":416}, "model": "item/animate/jets/gen4/rez16"},
+{"predicate": {"custom_model_data":417}, "model": "item/animate/jets/gen4/rez17"},
+{"predicate": {"custom_model_data":418}, "model": "item/animate/jets/gen4/rez18"},
+{"predicate": {"custom_model_data":419}, "model": "item/animate/jets/gen4/rez19"},
+{"predicate": {"custom_model_data":420}, "model": "item/animate/jets/gen4/rez20"}
+]
+}
