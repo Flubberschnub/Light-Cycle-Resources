@@ -6,6 +6,7 @@
 
 "overrides": [
 {"predicate": {"custom_model_data":4}, "model": "item/jets/gen4/jet"},
+{"predicate": {"custom_model_data":24}, "model": "item/jets/gen4/variants/blackguard/jet"},
 {"predicate": {"custom_model_data":41}, "model": "item/animate/jets/gen4/rez1"},
 {"predicate": {"custom_model_data":42}, "model": "item/animate/jets/gen4/rez2"},
 {"predicate": {"custom_model_data":43}, "model": "item/animate/jets/gen4/rez3"},
@@ -15,6 +16,15 @@
 {"predicate": {"custom_model_data":47}, "model": "item/animate/jets/gen4/rez9"},
 {"predicate": {"custom_model_data":48}, "model": "item/animate/jets/gen4/rez8"},
 {"predicate": {"custom_model_data":49}, "model": "item/animate/jets/gen4/rez9"},
+{"predicate": {"custom_model_data":241}, "model": "item/animate/jets/gen4/variants/blackguard/rez1"},
+{"predicate": {"custom_model_data":242}, "model": "item/animate/jets/gen4/variants/blackguard/rez2"},
+{"predicate": {"custom_model_data":243}, "model": "item/animate/jets/gen4/variants/blackguard/rez3"},
+{"predicate": {"custom_model_data":244}, "model": "item/animate/jets/gen4/variants/blackguard/rez4"},
+{"predicate": {"custom_model_data":245}, "model": "item/animate/jets/gen4/variants/blackguard/rez5"},
+{"predicate": {"custom_model_data":246}, "model": "item/animate/jets/gen4/variants/blackguard/rez6"},
+{"predicate": {"custom_model_data":247}, "model": "item/animate/jets/gen4/variants/blackguard/rez9"},
+{"predicate": {"custom_model_data":248}, "model": "item/animate/jets/gen4/variants/blackguard/rez8"},
+{"predicate": {"custom_model_data":249}, "model": "item/animate/jets/gen4/variants/blackguard/rez9"},
 {"predicate": {"custom_model_data":410}, "model": "item/animate/jets/gen4/rez8"},
 {"predicate": {"custom_model_data":411}, "model": "item/animate/jets/gen4/rez11"},
 {"predicate": {"custom_model_data":412}, "model": "item/animate/jets/gen4/rez12"},
@@ -25,6 +35,17 @@
 {"predicate": {"custom_model_data":417}, "model": "item/animate/jets/gen4/rez17"},
 {"predicate": {"custom_model_data":418}, "model": "item/animate/jets/gen4/rez18"},
 {"predicate": {"custom_model_data":419}, "model": "item/animate/jets/gen4/rez19"},
-{"predicate": {"custom_model_data":420}, "model": "item/animate/jets/gen4/rez20"}
+{"predicate": {"custom_model_data":420}, "model": "item/animate/jets/gen4/rez20"},
+{"predicate": {"custom_model_data":2410}, "model": "item/animate/jets/gen4/variants/blackguard/rez8"},
+{"predicate": {"custom_model_data":2411}, "model": "item/animate/jets/gen4/variants/blackguard/rez11"},
+{"predicate": {"custom_model_data":2412}, "model": "item/animate/jets/gen4/variants/blackguard/rez12"},
+{"predicate": {"custom_model_data":2413}, "model": "item/animate/jets/gen4/variants/blackguard/rez13"},
+{"predicate": {"custom_model_data":2414}, "model": "item/animate/jets/gen4/variants/blackguard/rez14"},
+{"predicate": {"custom_model_data":2415}, "model": "item/animate/jets/gen4/variants/blackguard/rez15"},
+{"predicate": {"custom_model_data":2416}, "model": "item/animate/jets/gen4/variants/blackguard/rez16"},
+{"predicate": {"custom_model_data":2417}, "model": "item/animate/jets/gen4/variants/blackguard/rez17"},
+{"predicate": {"custom_model_data":2418}, "model": "item/animate/jets/gen4/variants/blackguard/rez18"},
+{"predicate": {"custom_model_data":2419}, "model": "item/animate/jets/gen4/variants/blackguard/rez19"},
+{"predicate": {"custom_model_data":2420}, "model": "item/animate/jets/gen4/variants/blackguard/rez20"}
 ]
 }

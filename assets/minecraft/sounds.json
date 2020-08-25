@@ -94,7 +94,18 @@
   },
   "lightjet.guns.whizby": {
       "sounds": [
-        "jet/guns/whizby"
+        "jet/guns/bulletwhistle1",
+        "jet/guns/bulletwhistle2",
+        "jet/guns/bulletwhistle3"
+      ],
+      "subtitle": "Bullet passes by"
+  },
+  "lightjet.guns.hit": {
+      "sounds": [
+        "jet/guns/thud1",
+        "jet/guns/thud2",
+        "jet/guns/thud3",
+        "jet/guns/thud4"
       ],
       "subtitle": "Bullet passes by"
   },
