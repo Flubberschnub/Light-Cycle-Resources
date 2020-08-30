@@ -28,6 +28,12 @@
       ],
       "subtitle": "Identity disc activated"
   },
+  "disc.hum": {
+      "sounds": [
+          "disc/hum"
+      ],
+      "subtitle": "Identity disc hums"
+  },
     "lightcycle.rez": {
         "sounds": [
             "cycle/rez"

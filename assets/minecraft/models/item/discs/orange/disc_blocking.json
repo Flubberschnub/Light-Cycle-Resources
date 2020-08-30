@@ -1277,22 +1277,22 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [0, 0, 90],
-			"translation": [0, -2, -1.25],
+			"rotation": [0, 88, -180],
+			"translation": [-3.5, 1.5, 3],
 			"scale": [0.56, 0.56, 0.56]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [0, 0, 90],
-			"translation": [0, -2, -1.25],
+			"rotation": [0, 88, -180],
+			"translation": [-3.5, 1.5, 3],
 			"scale": [0.56, 0.56, 0.56]
 		},
 		"firstperson_righthand": {
-			"rotation": [0, 0, -34],
-			"translation": [2, 4, 0]
+			"rotation": [-94, 0, -27],
+			"translation": [-1.5, 5, 4]
 		},
 		"firstperson_lefthand": {
-			"rotation": [0, 0, -34],
-			"translation": [2, 4, 0]
+			"rotation": [-94, 0, -27],
+			"translation": [-1.5, 5, 4]
 		},
 		"ground": {
 			"scale": [0.56, 0.56, 0.56]
