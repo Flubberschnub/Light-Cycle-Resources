@@ -3,7 +3,6 @@
 	"textures": {
 		"1": "blocks/gen5/whiteglow",
 		"4": "blocks/gen5/metallic",
-		"6": "blocks/gen5/seat",
 		"7": "blocks/gen5/rimglow",
 		"8": "blocks/gen5/wheelmetal",
 		"9": "blocks/gen5/metal",
@@ -12,6 +11,8 @@
 		"12": "blocks/gen5/wheellightlines",
 		"13": "blocks/gen5/headlights",
 		"14": "blocks/gen5/engine",
+		"15": "blocks/gen5/cludash",
+		"16": "blocks/gen5/lightcycledash",
 		"particle": "blocks/gen5/blackspecular"
 	},
 	"elements": [
@@ -5138,16 +5139,16 @@
 			}
 		},
 		{
-			"from": [6.25, 8.75, -4.25],
+			"from": [6.25, 9.84375, -4.25],
 			"to": [9.75, 12.2, -1.1],
 			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 9.8, 4.3]},
 			"faces": {
-				"north": {"uv": [0, 0, 3.5, 3.65], "texture": "#6"},
-				"east": {"uv": [0, 0, 3.05, 3.65], "texture": "#6"},
-				"south": {"uv": [0, 0, 3.5, 3.65], "texture": "#6"},
-				"west": {"uv": [0, 0, 3.05, 3.65], "texture": "#6"},
-				"up": {"uv": [0, 0, 3.5, 3.05], "texture": "#6"},
-				"down": {"uv": [0, 1, 2, 2.1], "texture": "#6"}
+				"north": {"uv": [0, 7.625, 11.25, 15.9], "texture": "#15"},
+				"east": {"uv": [0, 7.625, 11.25, 15.9], "texture": "#15"},
+				"south": {"uv": [0, 0, 16, 15.994], "texture": "#16"},
+				"west": {"uv": [0, 7.625, 11.25, 15.9], "texture": "#15"},
+				"up": {"uv": [0, 7.625, 11.25, 15.9], "texture": "#15"},
+				"down": {"uv": [0, 7.625, 11.25, 15.9], "texture": "#15"}
 			}
 		},
 		{
