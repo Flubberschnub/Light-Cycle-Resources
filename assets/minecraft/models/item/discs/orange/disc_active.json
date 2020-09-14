@@ -1295,7 +1295,7 @@
 			"translation": [2, 4, 0]
 		},
 		"ground": {
-			"scale": [0.56, 0.56, 0.56]
+			"scale": [0, 0, 0]
 		},
 		"gui": {
 			"rotation": [90, -180, 0]
