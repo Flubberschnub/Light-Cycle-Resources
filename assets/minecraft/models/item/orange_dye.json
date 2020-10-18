@@ -1,7 +1,7 @@
 {
 "parent": "item/generated",
 "textures": {
-"layer0": "item/light_blue_dye"
+"layer0": "item/orange_dye"
 },
 
 "overrides": [

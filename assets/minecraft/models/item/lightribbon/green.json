@@ -1,0 +1,31 @@
+{
+	"credit": "Made by Flubberschnub",
+	"textures": {
+		"1": "blocks/encom786/gone",
+		"6": "blocks/gen5/green/greenemitter",
+		"particle": "blocks/encom786/gone"
+	},
+	"elements": [
+		{
+			"name": "hexadecagon",
+			"from": [4.75, -1, -4.29293],
+			"to": [5.25, 12, 31],
+			"rotation": {"angle": 0, "axis": "x", "origin": [6, 5.5, 25]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"east": {"uv": [11, 0, 12, 16], "texture": "#6"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [5, 0, 6, 16], "texture": "#6"},
+				"up": {"uv": [0, 0, 1, 1], "texture": "#6"},
+				"down": {"uv": [0, 0, 1, 1], "texture": "#6"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [0, -90, 0],
+			"translation": [35, -2.25, 9.75],
+			"scale": [3.3, 3.3, 3.3]
+		}
+	}
+}

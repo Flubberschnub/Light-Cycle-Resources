@@ -7,6 +7,7 @@
 "overrides": [
   {"predicate": {"custom_model_data":4}, "model": "item/cycles/uprising/gen4"},
   {"predicate": {"custom_model_data":24}, "model": "item/cycles/uprising/variants/blackguard/gen4"},
+  {"predicate": {"custom_model_data":34}, "model": "item/cycles/uprising/variants/green/gen4"},
   {"predicate": {"custom_model_data":41}, "model": "item/animate/uprising/rez1"},
   {"predicate": {"custom_model_data":42}, "model": "item/animate/uprising/rez2"},
   {"predicate": {"custom_model_data":43}, "model": "item/animate/uprising/rez3"},
@@ -25,11 +26,23 @@
   {"predicate": {"custom_model_data":247}, "model": "item/animate/uprising/variants/blackguard/rez7"},
   {"predicate": {"custom_model_data":248}, "model": "item/animate/uprising/variants/blackguard/rez8"},
   {"predicate": {"custom_model_data":249}, "model": "item/animate/uprising/variants/blackguard/rez9"},
+  {"predicate": {"custom_model_data":341}, "model": "item/animate/uprising/variants/green/rez1"},
+  {"predicate": {"custom_model_data":342}, "model": "item/animate/uprising/variants/green/rez2"},
+  {"predicate": {"custom_model_data":343}, "model": "item/animate/uprising/variants/green/rez3"},
+  {"predicate": {"custom_model_data":344}, "model": "item/animate/uprising/variants/green/rez4"},
+  {"predicate": {"custom_model_data":345}, "model": "item/animate/uprising/variants/green/rez5"},
+  {"predicate": {"custom_model_data":346}, "model": "item/animate/uprising/variants/green/rez6"},
+  {"predicate": {"custom_model_data":347}, "model": "item/animate/uprising/variants/green/rez7"},
+  {"predicate": {"custom_model_data":348}, "model": "item/animate/uprising/variants/green/rez8"},
+  {"predicate": {"custom_model_data":349}, "model": "item/animate/uprising/variants/green/rez9"},
   {"predicate": {"custom_model_data":410}, "model": "item/animate/uprising/rez10"},
   {"predicate": {"custom_model_data":2410}, "model": "item/animate/uprising/variants/blackguard/rez10"},
+  {"predicate": {"custom_model_data":3410}, "model": "item/animate/uprising/variants/green/rez10"},
   {"predicate": {"custom_model_data":4001}, "model": "item/cycles/uprising/gen4"},
   {"predicate": {"custom_model_data":4002}, "model": "item/cycles/uprising/gen4"},
   {"predicate": {"custom_model_data":24001}, "model": "item/cycles/uprising/variants/blackguard/gen4"},
-  {"predicate": {"custom_model_data":24002}, "model": "item/cycles/uprising/variants/blackguard/gen4"}
+  {"predicate": {"custom_model_data":24002}, "model": "item/cycles/uprising/variants/blackguard/gen4"},
+  {"predicate": {"custom_model_data":24001}, "model": "item/cycles/uprising/variants/green/gen4"},
+  {"predicate": {"custom_model_data":24002}, "model": "item/cycles/uprising/variants/green/gen4"}
 ]
 }

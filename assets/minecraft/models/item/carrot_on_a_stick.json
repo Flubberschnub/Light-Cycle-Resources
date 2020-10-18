@@ -8,9 +8,12 @@
 {"predicate": {"custom_model_data":4}, "model": "item/cycles/uprising/closedbaton4"},
 {"predicate": {"custom_model_data":5}, "model": "item/cycles/gen5/closedbaton5"},
 {"predicate": {"custom_model_data":42}, "model": "item/cycles/uprising/variants/blackguard/closedbaton4"},
+{"predicate": {"custom_model_data":43}, "model": "item/cycles/uprising/variants/green/closedbaton4"},
 {"predicate": {"custom_model_data":52}, "model": "item/cycles/gen5/variants/blackguard/closedbaton5"},
+{"predicate": {"custom_model_data":53}, "model": "item/cycles/gen5/variants/green/closedbaton5"},
 {"predicate": {"custom_model_data":99}, "model": "item/discs/basic/disc"},
 {"predicate": {"custom_model_data":299}, "model": "item/discs/orange/disc"},
+{"predicate": {"custom_model_data":399}, "model": "item/discs/green/disc"},
 {"predicate": {"custom_model_data":786}, "model": "item/cycles/786/closedbaton786"},
 {"predicate": {"custom_model_data":787}, "model": "item/cycles/786/rightbaton786"},
 {"predicate": {"custom_model_data":788}, "model": "item/cycles/786/leftbaton786"},
@@ -19,6 +22,9 @@
 {"predicate": {"custom_model_data":993}, "model": "item/discs/basic/disc_back"},
 {"predicate": {"custom_model_data":2991}, "model": "item/discs/orange/disc_active"},
 {"predicate": {"custom_model_data":2992}, "model": "item/discs/orange/disc_blocking"},
-{"predicate": {"custom_model_data":2993}, "model": "item/discs/orange/disc_back"}
+{"predicate": {"custom_model_data":2993}, "model": "item/discs/orange/disc_back"},
+{"predicate": {"custom_model_data":3991}, "model": "item/discs/green/disc_active"},
+{"predicate": {"custom_model_data":3992}, "model": "item/discs/green/disc_blocking"},
+{"predicate": {"custom_model_data":3993}, "model": "item/discs/green/disc_back"}
 ]
 }

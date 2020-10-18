@@ -1,0 +1,27 @@
+{
+	"credit": "Made by Flubberschnub",
+	"textures": {
+		"0": "blocks/gen5/green/greenemitter",
+		"particle": "blocks/gen5/green/greenemitter"
+	},
+	"elements": [
+		{
+			"from": [-16, -16, -16],
+			"to": [32, 32, 32],
+			"faces": {
+				"north": {"uv": [4, 0, 5.5, 1], "texture": "#0"},
+				"east": {"uv": [4, 0, 5.5, 1], "texture": "#0"},
+				"south": {"uv": [4, 0, 5.5, 1], "texture": "#0"},
+				"west": {"uv": [4, 0, 5.5, 1], "texture": "#0"},
+				"up": {"uv": [4, 0, 5.5, 1], "texture": "#0"},
+				"down": {"uv": [4, 0, 5.5, 1], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -38.75, 0],
+			"scale": [4, 4, 4]
+		}
+	}
+}
