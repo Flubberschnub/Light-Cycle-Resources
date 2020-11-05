@@ -1,11 +1,11 @@
 {
 	"credit": "Made by Flubberschnub",
 	"textures": {
-		"0": "blocks/gen5/whiteglow",
+		"0": "blocks/gen5/green/greenglow",
 		"1": "blocks/gen5/blackspecular",
 		"2": "blocks/gen5/metallic",
 		"3": "blocks/gen5/darkmetallic",
-		"particle": "blocks/gen5/whiteglow"
+		"particle": "blocks/gen5/green/greenglow"
 	},
 	"elements": [
 		{
